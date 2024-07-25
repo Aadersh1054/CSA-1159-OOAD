@@ -1,0 +1,12 @@
+https://dev.mysql.com/downloads/installer/
+software
+https://dev.mysql.com/downloads/connector/j/
+platform independent connector download
+place jar file under :E\padma\Java\mysql-connector-j-8.4.0\mysql-connector-j-8.4.0.jar
+
+E:\padma\Java>javac -cp .;E:\padma\Java\mysql-connector-j-8.4.0\mysql-connector-j-8.4.0.jar ADatabase.java
+
+
+
+
+
